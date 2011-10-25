@@ -1,5 +1,12 @@
 Demo::Application.configure do
   # Settings specified here will take precedence over those in config/application.rb
+  # Use RACK:SSL to force SSL
+  #require 'rack/ssl'
+  #config.middleware.use Rack::SSL
+
+  # Use RACK:SSL to secure session cookie
+  #config.middleware.insert_before ActionDispatch::Cookies, Rack::SSL
+
 
   # The production environment is meant for finished, "live" apps.
   # Code is not reloaded between requests
