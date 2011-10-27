@@ -31,8 +31,8 @@
     <orderEntry type="library" scope="PROVIDED" name="activerecord (v3.0.10, RVM: ruby-1.9.2-p290 [demo]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activemodel (v3.0.10, RVM: ruby-1.9.2-p290 [demo]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activeresource (v3.0.10, RVM: ruby-1.9.2-p290 [demo]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rails (v3.0.10, RVM: ruby-1.9.2-p290 [demo]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sqlite3 (v1.3.4, RVM: ruby-1.9.2-p290 [demo]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rails (v3.0.10, RVM: ruby-1.9.2-p290 [demo]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="mime-types (v1.17.1, RVM: ruby-1.9.2-p290 [demo]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="mail (v2.2.19, RVM: ruby-1.9.2-p290 [demo]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack-mount (v0.6.14, RVM: ruby-1.9.2-p290 [demo]) [gem]" level="application" />
