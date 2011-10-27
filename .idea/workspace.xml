@@ -33,19 +33,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0">
+            <state line="3" column="1" selection-start="53" selection-end="53" vertical-scroll-proportion="0.06392045">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="production.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="production.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="2" selection-start="84" selection-end="84" vertical-scroll-proportion="0.06392045">
+            <state line="4" column="3" selection-start="121" selection-end="121" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -348,7 +348,7 @@
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
     <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Prepping for demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="ssl enabled" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -368,6 +368,7 @@
     <MESSAGE value="Adding SSL to app" />
     <MESSAGE value="Again, comment out SSL" />
     <MESSAGE value="Prepping for demo" />
+    <MESSAGE value="ssl enabled" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -393,16 +394,16 @@
         <state line="5" column="30" selection-start="162" selection-end="162" vertical-scroll-proportion="0.16233766" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
+    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0">
+        <state line="4" column="3" selection-start="121" selection-end="121" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
+    <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="2" selection-start="84" selection-end="84" vertical-scroll-proportion="0.06392045">
+        <state line="3" column="1" selection-start="53" selection-end="53" vertical-scroll-proportion="0.06392045">
           <folding />
         </state>
       </provider>
