@@ -1,8 +1,8 @@
 Demo::Application.configure do
   # Use RACK:SSL to force SSL
-  #require 'rack/ssl'
-  #config.middleware.use Rack::SSL
-  #config.middleware.insert_before ActionDispatch::Cookies, Rack::SSL # Use RACK:SSL to secure session cookie
+  require 'rack/ssl'
+  config.middleware.use Rack::SSL
+  config.middleware.insert_before ActionDispatch::Cookies, Rack::SSL # Use RACK:SSL to secure session cookie
 
   # The production environment is meant for finished, "live" apps.
   # Code is not reloaded between requests
